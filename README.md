@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duspielen</h1>
-<h3 align="center">I translate and program in C++</h3>
+<h3 align="center">I translate from English into Russian and program in C++</h3>
 
 - 🌱 I’m currently learning **C++**
 
